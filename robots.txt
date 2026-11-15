@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hoferraffael66-dev.github.io/Nebengewerbe/sitemap.xml
