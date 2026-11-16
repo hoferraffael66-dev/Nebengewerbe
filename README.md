@@ -10,7 +10,7 @@ Statische Website (HTML/CSS/JS, kein Server nötig) im Design des Flyers.
 - `robots.txt`, `sitemap.xml` – für Google
 
 ## Noch zu erledigen
-1. **Adresse**: Die Seite läuft unter `https://hoferraffael66-dev.github.io/Nebengewerbe/`.
+1. **Adresse**: Die Seite läuft unter `https://hoferraffael66-dev.github.io/`.
    Bei einer eigenen Domain später überall ersetzen (index.html, robots.txt, sitemap.xml).
 2. **Kontaktformular aktivieren**: Einmal selbst eine Testanfrage über die Website senden.
    FormSubmit schickt dann eine Bestätigungs-Mail an hofer360service@gmail.com –
